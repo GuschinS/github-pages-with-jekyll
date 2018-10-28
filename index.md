@@ -3,8 +3,3 @@
 Hi, My name is SG.
 
 
-- one
-- two
-- three
-
-
